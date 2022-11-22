@@ -22,3 +22,5 @@ $ curl -d '{"name":"Midnight Fit", "artist":"Mogwai", "year":"2021"}' -H "Conten
 ```
 
 Get all songs: [http://localhost:8004/songs](http://localhost:8004/songs)
+
+Original post by link https://habr.com/ru/post/580866/
